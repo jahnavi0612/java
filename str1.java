@@ -14,6 +14,6 @@ public static void main(String args[])
 	System.out.println("Concated string=" +result);
 	//compare
 	boolean areEqual=str1.equals(str2);
-	System.out.println(areEqual?"Equal":"Not Equal");
+	System.out.println(areEqual?"Equal":"Not Equal");
 }
 }
